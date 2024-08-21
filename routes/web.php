@@ -14,3 +14,6 @@ Route::get('/register', function () {
 Route::get('/admin', function () {
     return view('/admin/dashboard');
 });
+Route::get('/admin-rooms', function () {
+    return view('/admin/rooms/rooms');
+});

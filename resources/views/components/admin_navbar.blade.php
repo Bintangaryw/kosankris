@@ -6,7 +6,7 @@
     <div class="flex-none">
         <ul class="menu menu-horizontal px-1">
             <li><a href="/admin">Dashboard</a></li>
-            <li><a href="#">Kamar</a></li>
+            <li><a href="/admin-rooms">Kamar</a></li>
             <li><a href="#">Penghuni</a></li>
         </ul>
     </div>
