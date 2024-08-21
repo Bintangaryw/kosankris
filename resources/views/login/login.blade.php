@@ -39,8 +39,8 @@
                         </svg>
                         <input type="password" class="grow" placeholder="Password" value="" />
                     </label>
-                    <p class="text-xs text-center py-5">Don't have any account? Register <a class="underline"
-                            href="/register">here.</a></p>
+                    <p class="text-xs text-center py-5">Daftarkan akun baru di <a class="underline" href="/register">
+                            sini.</a></p>
                 </div>
                 <div class=" flex justify-center pt-11">
                     <button class="btn">Login</button>

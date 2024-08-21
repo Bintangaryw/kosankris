@@ -11,3 +11,6 @@ Route::get('/login', function () {
 Route::get('/register', function () {
     return view('/register/register');
 });
+Route::get('/admin', function () {
+    return view('/admin/dashboard');
+});
